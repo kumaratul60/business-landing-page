@@ -173,23 +173,28 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/atulkawasthi",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://atultheportfolio.netlify.app",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://www.twitter.com/atulkawasthi",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/atul-kumar-awasthi",
   },
+  // {
+  //   id: "social-media-5",
+  //   icon: github,
+  //   link: "https://www.github.com/kumaratul60",
+  // },
 ];
 
 export const clients = [
@@ -209,4 +214,9 @@ export const clients = [
     id: "client-4",
     logo: dropbox,
   },
+
+  // {
+  //   id: "client-5",
+  //   logo: pinterest,
+  // },
 ];
